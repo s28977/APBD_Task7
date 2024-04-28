@@ -399,4 +399,4 @@ FodyWeavers.xsd
 
 # My own
 .idea
-appsettings.json
+# appsettings.json
